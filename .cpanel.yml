@@ -10,3 +10,4 @@ deployment:
     - /bin/cp favicon.ico $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp manifest.json $DEPLOYPATH
+    - /bin/cp sitemap.xml $DEPLOYPATH
